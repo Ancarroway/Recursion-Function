@@ -1,5 +1,5 @@
 
-# Week 6 Recursion Program
+# Recursion Program
 
 ## Description
 This project demonstrates **recursion** through two classic examples:
