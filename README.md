@@ -18,5 +18,5 @@ This project demonstrates **recursion** through two classic examples:
 ## How to Run
 This program can be run in any Python environment. Simply run:
 ```
-python week6_recursion.py
+python recursion.py
 ```
